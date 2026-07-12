@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [1331-rank-transform-of-an-array](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/0234-palindrome-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/1331-rank-transform-of-an-array) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->

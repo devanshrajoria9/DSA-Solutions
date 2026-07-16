@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0287-find-the-duplicate-number](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0724-find-pivot-index](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1331-rank-transform-of-an-array](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->

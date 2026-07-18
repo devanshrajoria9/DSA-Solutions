@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1331-rank-transform-of-an-array](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/0724-find-pivot-index) |
+## Math
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/devanshrajoria9/DSA-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
